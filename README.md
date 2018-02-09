@@ -128,4 +128,4 @@ This line has some `alert("Hao")` inline code.
 ## Emoji
 
 :laughing:  
-:blush:"# Markdown" 
+:blush:
