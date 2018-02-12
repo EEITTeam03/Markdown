@@ -5,7 +5,10 @@
 1. Markdown PasteURL
 1. Markdown Shortcuts
 
-## 標題練習
+## 標題練習  
+\# + space 效果跟<h1>一樣
+\## + space 效果跟<h2>一樣  
+以此類推  
 
 # This is level 1 heading
 ## This is level 2 heading
@@ -126,6 +129,8 @@ public static void Move(int disks, int from, int to)
 This line has some `alert("Hao")` inline code.
 
 ## Emoji
+
+<https://gist.github.com/rxaviers/7360908>
 
 :laughing:  
 :blush:
