@@ -6,8 +6,9 @@
 1. Markdown Shortcuts
 
 ## 標題練習  
-\# + space 效果跟<h1>一樣
-\## + space 效果跟<h2>一樣  
+\# + space 效果跟\<h1>一樣
+\## + space 效果跟\<h2>一樣
+\### + space 效果跟\<h3>一樣  
 以此類推  
 
 # This is level 1 heading
